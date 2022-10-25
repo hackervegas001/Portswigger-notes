@@ -11,16 +11,16 @@ rely on time after time.
 ---------------------------------------------------------------------------------------
 
 # Server-side vulnerability
-1. sql injection
-2. Authentication
-3. Directory traversal
-4. Command injection
-5. Business logic vulnerabilities
-6. Information disclosure
-7. Access control
-8. File upload vulnerabilities
-9. Server-side request forgery (SSRF)
-10. XXE injection
+    1. sql injection
+    2. Authentication
+    3. Directory traversal
+    4. Command injection
+    5. Business logic vulnerabilities
+    6. Information disclosure
+    7. Access control
+    8. File upload vulnerabilities
+    9. Server-side request forgery (SSRF)
+    10. XXE injection
 
 -----------------------------------------------------------------------------------------
 
