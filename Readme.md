@@ -8,6 +8,8 @@ easier to learn because you only need to understand what's happening on the serv
 Our materials and labs will help you devlop some of the  core knowledge and skills that you will 
 rely on time after time.
 
+---------------------------------------------------------------------------------------
+
 # Server-side vulnerability
 1. sql injection
 2. Authentication
@@ -19,6 +21,8 @@ rely on time after time.
 8. File upload vulnerabilities
 9. Server-side request forgery (SSRF)
 10. XXE injection
+
+-----------------------------------------------------------------------------------------
 
 # Brupsuite professional crack version :)
 https://github.com/hackervegas001/Burp_Suite_Professional_crack.git
